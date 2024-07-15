@@ -1,0 +1,4 @@
+{
+  "USDC": { "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831", "Decimal": 6 },
+  "DCM": { "address": "0x5b87d67eB5E84388Af77384Eeb8CDc62331cAef7", "Decimal": 18 }
+}
